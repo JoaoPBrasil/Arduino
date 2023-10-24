@@ -1,6 +1,11 @@
 void setup()
 {
  	Serial.begin(9600);
+  Serial.println("Digite: ");
+  Serial.println("1 para cender o led verde e 5 para apagar.");
+  Serial.println("2 para cender o led azul e 6 para apagar.");
+  Serial.println("3 para cender o led cinza e 7 para apagar.");
+  Serial.println("4 para cender o led vermelho e 8 para apagar.");
 
 }
 
