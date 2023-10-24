@@ -31,6 +31,26 @@ void loop()
           digitalWrite(11, HIGH);
         
           break;
+        
+        case '5':
+          digitalWrite(8, LOW);
+        
+          break;
+        
+        case '6':
+          digitalWrite(9, LOW);
+        
+          break;
+        
+        case '7':
+          digitalWrite(10, LOW);
+        
+          break;
+        
+        case '8':
+          digitalWrite(11, LOW);
+        
+          break;
       }
   }
 
