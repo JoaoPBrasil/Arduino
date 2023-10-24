@@ -6,6 +6,7 @@ void setup()
   Serial.println("2 para cender o led azul e 6 para apagar.");
   Serial.println("3 para cender o led cinza e 7 para apagar.");
   Serial.println("4 para cender o led vermelho e 8 para apagar.");
+ Serial.println("ou digite 9 para apagar todos os leds.");
 
 }
 
@@ -57,7 +58,7 @@ void loop()
         
           break;
         
-        case '9';
+        case '9':
         digitalWrite(8, LOW);
         digitalWrite(9, LOW);
         digitalWrite(10, LOW);
