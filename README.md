@@ -7,6 +7,6 @@ En: Repository of studies in C++, codes used in Arduino programming.
 - C++
 
 # Estrutura de Organização
-Pt-BR: Cada um dos arquivos corresponde a uma atividade realizada utilizando a linguagem C++, programados com o intuito de serem utilizados em Arduínos.
+Pt-BR: A pasta "Exercises" corresponde as atividades realizadas utilizando a linguagem C++, programados com o intuito de serem utilizados em Arduínos.
 
-En: Each of the files corresponds to an activity carried out using the C++ language, programmed with the intention of being used on Arduinos.
+En: The "Exercises" folder corresponds to activities carried out using the C++ language, programmed with the intention of being used on Arduinos.
