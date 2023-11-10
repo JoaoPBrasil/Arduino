@@ -1,5 +1,5 @@
 # Arduino
-Pt-BR: Repositorio de estudos em C++, códigos utilizados na programação de Arduínos.
+Pt-BR: Repositório de estudos em C++, códigos utilizados na programação de Arduínos.
 
 En: Repository of studies in C++, codes used in Arduino programming.
 
